@@ -1,10 +1,17 @@
-### Hi there 👋
+
+
+- 👋 Hi, I’m Erfan Akhavan Rad.
+- ⚡ A young passionate programmer who loves to do great things and believes everything is possible through the power of computers!
+I believe in dedication to constant learning and getting better everyday.
+- 😄 I’m currently open to work for Java Programming positions in Germany and Netherlands.
+- 📫 If you think we can work together please feel free to contact me on `erfanakhavanrad@gmail.com`
+- 💬 you can see more detail about me on my *[LinledIn Page](https://www.linkedin.com/in/erfan-akhavan-rad/)*.
 
 <!--
 **erfanakhavanrad/erfanakhavanrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
