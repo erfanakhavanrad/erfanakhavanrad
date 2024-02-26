@@ -5,7 +5,7 @@
 I believe in dedication to constant learning and getting better everyday.
 - 😄 I’m currently open to work for Java Programming positions in Germany and Netherlands.
 - 📫 If you think we can work together please feel free to contact me on `erfanakhavanrad@gmail.com`
-- 💬 you can see more detail about me on my *[LinledIn Page](https://www.linkedin.com/in/erfan-akhavan-rad/)*.
+- 💬 You can find out more about me via my *[LinledIn Page](https://www.linkedin.com/in/erfan-akhavan-rad/)*.
 
 <!--
 **erfanakhavanrad/erfanakhavanrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
