@@ -3,7 +3,6 @@
 - 👋 Hi, I’m Erfan Akhavan Rad.
 - ⚡ A young passionate programmer who loves to do great things and believes everything is possible through the power of computers!
 I believe in dedication to constant learning and getting better everyday.
-- 😄 I’m currently open to work for Java Programming positions in Germany and Netherlands.
 - 📫 If you think we can work together please feel free to contact me on `erfanakhavanrad@gmail.com`
 - 💬 You can get to know me better via my *[LinledIn Page](https://www.linkedin.com/in/erfan-akhavan-rad/)*.
 
@@ -20,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 😄 I’m currently open to work for Java Programming positions in Germany and Netherlands.
 -->
