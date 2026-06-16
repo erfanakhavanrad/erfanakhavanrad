@@ -94,70 +94,7 @@ When Iran's National Tax Administration (INTA) declared a new invoicing law in 2
 
 <div align="center">
 
-
-## 🏆 Achievements
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=erfanakhavanrad&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8&title=Commits,Repositories,Stars,Followers,Issues,PullRequest)](https://github.com/erfanakhavanrad)
-
-</div>
-
----
-
-## 📈 All-Time Stats
-
-<div align="center">
-
-[![Erfan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erfanakhavanrad&show_icons=true&include_all_commits=true&count_private=true&bg_color=111318&title_color=C9974A&icon_color=4A9B8E&text_color=E8E5DF&border_color=21252E)](https://github.com/erfanakhavanrad)
-
-</div>
-
----
-
-## 📊 Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erfanakhavanrad&bg_color=111318&color=4A9B8E&line=C9974A&point=E8E5DF&area=true&area_color=C9974A&hide_border=true)](https://github.com/erfanakhavanrad)
-
-</div>
-
-
-
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erfanakhavanrad&layout=compact&theme=dark&bg_color=111318&title_color=C9974A&text_color=E8E5DF&border_color=21252E)
-
-</div>
-
-
-
-
-## 🏆 Achievements
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=erfanakhavanrad&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8&title=Commits,Repositories,Stars,Followers,Issues,PullRequest)](https://github.com/erfanakhavanrad)
-
-</div>
-
----
-
-## 📈 All-Time Stats
-
-<div align="center">
-
-[![Erfan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erfanakhavanrad&show_icons=true&include_all_commits=true&count_private=true&bg_color=111318&title_color=C9974A&icon_color=4A9B8E&text_color=E8E5DF&border_color=21252E)](https://github.com/erfanakhavanrad)
-
-</div>
-
----
-
-## 📊 Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erfanakhavanrad&bg_color=111318&color=4A9B8E&line=C9974A&point=E8E5DF&area=true&area_color=C9974A&hide_border=true)](https://github.com/erfanakhavanrad)
 
 </div>
 
