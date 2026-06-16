@@ -1,15 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
 
-```
-  ██████╗  █████╗  ██████╗██╗  ██╗███████╗███╗   ██╗██████╗
-  ██╔══██╗██╔══██╗██╔════╝██║ ██╔╝██╔════╝████╗  ██║██╔══██╗
-  ██████╔╝███████║██║     █████╔╝ █████╗  ██╔██╗ ██║██║  ██║
-  ██╔══██╗██╔══██║██║     ██╔═██╗ ██╔══╝  ██║╚██╗██║██║  ██║
-  ██████╔╝██║  ██║╚██████╗██║  ██╗███████╗██║ ╚████║██████╔╝
-  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═════╝
-```
-
 ### ☕ Java Backend Engineer · Spring Boot · Distributed Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erfan-akhavan-rad)
@@ -25,7 +16,6 @@
 
 I'm a backend engineer with **5+ years** building production-grade systems in **Java and Spring Boot** — from insurtech APIs handling high-traffic insurance flows, to a neobank's distributed cheque processing platform, to a real-time KYC liveness detection engine.
 
-Currently pursuing my **M.Sc. in Engineering of Socio-Technical Systems** at the University of Oldenburg, Germany — and actively looking for a **Werkstudent position (20 hrs/week)** in backend development.
 
 I care about systems that are fast, maintainable, and designed to last. I'm the kind of engineer who writes the C4 diagram *and* the pessimistic lock — then refactors 30% of the legacy codebase for good measure.
 
@@ -110,25 +100,6 @@ When Iran's National Tax Administration (INTA) declared a new invoicing law in 2
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erfanakhavanrad&layout=compact&theme=dark&bg_color=111318&title_color=C9974A&text_color=E8E5DF&border_color=21252E)
 
 </div>
-
----
-
-## 🎓 Education & Certifications
-
-- 🎓 **M.Sc. Engineering of Socio-Technical Systems** — Carl von Ossietzky Universität Oldenburg *(Apr 2026 – Present)*
-- 🎓 **B.Sc. Computer Science** — Pardis Azad University *(2019 – 2024)*
-- 📜 **LPIC-1** — Linux Professional Institute Certification
-- 📜 **Java Programming Masterclass** · Spring Boot & Database Courses · SQL Server 2019 · Android Java Development
-
----
-
-## 🌍 Languages
-
-| Language | Level |
-|----------|-------|
-| 🇮🇷 Persian | Native |
-| 🇬🇧 English | Fluent · C1 |
-| 🇩🇪 German | Intermediate · B1 (actively improving) |
 
 ---
 
