@@ -5,6 +5,7 @@
 
 I'm a backend engineer with **5+ years** building production-grade systems in **Java and Spring Boot** — from insurtech APIs handling high-traffic insurance flows, to a neobank's distributed cheque processing platform, to a real-time KYC liveness detection engine.
 
+Currently pursuing my **M.Sc. in Engineering of Socio-Technical Systems** at the University of Oldenburg, Germany — and actively looking for a **Werkstudent position (20 hrs/week)** in backend development.
 
 I care about systems that are fast, maintainable, and designed to last. I'm the kind of engineer who writes the C4 diagram *and* the pessimistic lock — then refactors 30% of the legacy codebase for good measure.
 
@@ -58,6 +59,7 @@ I care about systems that are fast, maintainable, and designed to last. I'm the 
 </tr></table>
 
 ---
+
 ## 🏗️ What I've Built
 
 ### 🏦 Chequead — Distributed Online Cheque System *(ABank)*
@@ -95,11 +97,31 @@ When Iran's National Tax Administration (INTA) declared a new invoicing law in 2
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 Achievements
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erfanakhavanrad&layout=compact&theme=dark&bg_color=111318&title_color=C9974A&text_color=E8E5DF&border_color=21252E)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=erfanakhavanrad&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8&title=Commits,Repositories,Stars,Followers,Issues,PullRequest)](https://github.com/erfanakhavanrad)
+
+</div>
+
+---
+
+## 📈 All-Time Stats
+
+<div align="center">
+
+[![Erfan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erfanakhavanrad&show_icons=true&include_all_commits=true&count_private=true&bg_color=111318&title_color=C9974A&icon_color=4A9B8E&text_color=E8E5DF&border_color=21252E)](https://github.com/erfanakhavanrad)
+
+</div>
+
+---
+
+## 📊 Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erfanakhavanrad&bg_color=111318&color=4A9B8E&line=C9974A&point=E8E5DF&area=true&area_color=C9974A&hide_border=true)](https://github.com/erfanakhavanrad)
 
 </div>
 
