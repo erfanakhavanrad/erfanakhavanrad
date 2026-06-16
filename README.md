@@ -470,7 +470,7 @@
       />
     </div>
   </section>
-
+\
   <!-- Connect (centered) -->
   <section>
     <h2>📬 Let's Connect</h2>
