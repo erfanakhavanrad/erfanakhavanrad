@@ -1,15 +1,5 @@
 <!-- Header Banner -->
 <div align="center">
-### ☕ Java Backend Engineer · Spring Boot · Distributed Systems
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erfan-akhavan-rad)
-[![Portfolio](https://img.shields.io/badge/Portfolio-C9974A?style=for-the-badge&logo=firefox&logoColor=white)](https://erfanakhavanrad.github.io)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erfanakhavanrad@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erfanakhavanrad)
-
-</div>
-
----
 
 ## 👋 Hey, I'm Erfan
 
@@ -29,10 +19,16 @@ I care about systems that are fast, maintainable, and designed to last. I'm the 
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white)
 
+<table width="100%"><tr>
+<td width="50%" valign="top">
+
 ### 🗄️ Databases & Cache
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🐳 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -42,17 +38,26 @@ I care about systems that are fast, maintainable, and designed to last. I'm the 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white)
 
+</td>
+</tr><tr>
+<td width="50%" valign="top">
+
 ### 📊 Monitoring
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
 
+</td>
+<td width="50%" valign="top">
+
 ### 🤖 AI / Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
+</td>
+</tr></table>
 
+---
 ## 🏗️ What I've Built
 
 ### 🏦 Chequead — Distributed Online Cheque System *(ABank)*
