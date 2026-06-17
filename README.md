@@ -109,6 +109,7 @@ When Iran's National Tax Administration (INTA) declared a new invoicing law in 2
 I'm based in **Oldenburg, Germany** and open to Werkstudent roles (20 hrs/week), remote or on-site.
 </div>
 </div>
+<br></br>
 <div align="center">
 "Ship systems that scale. Write code that lasts. Never stop refactoring."
 
