@@ -7,6 +7,9 @@ I'm a backend engineer with **5+ years** building production-grade systems in **
 
 I care about systems that are fast, maintainable, and designed to last. I'm the kind of engineer who writes the C4 diagram *and* the pessimistic lock — then refactors 30% of the legacy codebase for good measure.
 
+I'm based in **Oldenburg, Germany** and open to Werkstudent roles (20 hrs/week), remote or on-site.
+
+
 ---
 
 ## 🛠️ Tech Stack
@@ -103,10 +106,6 @@ When Iran's National Tax Administration (INTA) declared a new invoicing law in 2
 </div>
 
 ---
-
-## 📬 Let's Connect
-
-I'm based in **Oldenburg, Germany** and open to Werkstudent roles (20 hrs/week), remote or on-site.
 
 
 <div align="center">
