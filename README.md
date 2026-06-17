@@ -107,19 +107,9 @@ When Iran's National Tax Administration (INTA) declared a new invoicing law in 2
 ## 📬 Let's Connect
 
 I'm based in **Oldenburg, Germany** and open to Werkstudent roles (20 hrs/week), remote or on-site.
-</div>
-</div>
-<br></br>
-<div align="center">
-"Ship systems that scale. Write code that lasts. Never stop refactoring."
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erfan-akhavan-rad)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-C9974A?style=for-the-badge&logo=firefox&logoColor=white)](https://erfanakhavanrad.github.io)
-[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erfanakhavanrad@gmail.com)
-</div>
 
 
 <div align="center">
-<sub>📍 Oldenburg, Germany · ☕ Powered by Java & too much coffee</sub>
+<sub>Ship systems that scale. Write code that lasts. Never stop refactoring.</sub>
 </div>
 </div>
