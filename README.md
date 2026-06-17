@@ -7,7 +7,7 @@ I'm a backend engineer with **5+ years** building production-grade systems in **
 
 I care about systems that are fast, maintainable, and designed to last. I'm the kind of engineer who writes the C4 diagram *and* the pessimistic lock — then refactors 30% of the legacy codebase for good measure.
 
-I'm based in **Oldenburg, Germany** and open to Werkstudent roles (20 hrs/week), remote or on-site.
+I'm based in Oldenburg, Germany and open to Werkstudent roles (20 hrs/week),Part-time/Full-time positions, remote or on-site.
 
 
 ---
