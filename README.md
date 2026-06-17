@@ -1,5 +1,4 @@
 <!-- Header Banner -->
-<div align="center">
 
 ## 👋 Hey, I'm Erfan
 
