@@ -2,7 +2,7 @@
 
 ## 👋 Hey, I'm Erfan
 
-I'm a backend engineer with **2+ years** building production-grade systems in **Java Spring Boot and Python** — from insurtech APIs handling high-traffic insurance flows, to a neobank's distributed cheque processing platform, to a real-time KYC liveness detection engine.
+I'm a backend engineer with **5+ years** building production-grade systems in **Java Spring Boot and Python** — from insurtech APIs handling high-traffic insurance flows, to a neobank's distributed cheque processing platform, to a real-time KYC liveness detection engine.
 
 
 I care about systems that are fast, maintainable, and designed to last. I'm the kind of engineer who writes the C4 diagram *and* the pessimistic lock — then refactors 30% of the legacy codebase for good measure.
