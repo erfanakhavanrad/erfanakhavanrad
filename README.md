@@ -6,5 +6,3 @@ I'm a backend engineer with **5+ years** building production-grade systems in **
 
 
 I care about systems that are fast, maintainable, and designed to last. I'm the kind of engineer who writes the C4 diagram *and* the pessimistic lock — then refactors 30% of the legacy codebase for good measure.
-
-I'm based in Oldenburg, Germany. If you want to contact me, you can write an email to: erfanrad.dev@gmail.com
